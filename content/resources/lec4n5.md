@@ -6,6 +6,8 @@ description: Lecture notes on alkali and plagioclase feldspars solution models, 
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/de74f1be309197a31f1949aa13f8e1ba_lec4n5.pdf
 file_size: 1053810
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

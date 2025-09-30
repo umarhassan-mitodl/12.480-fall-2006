@@ -4,6 +4,8 @@ description: Lecture notes on free energy of a solution.
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/ece0c3f157437de6f52b1fa186cea566_lec1.pdf
 file_size: 226773
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

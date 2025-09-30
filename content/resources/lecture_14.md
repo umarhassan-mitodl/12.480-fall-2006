@@ -4,6 +4,8 @@ description: Lecture notes on Schreinemaker's analysis - multi-component systems
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/1a187f01113e24f0cf47853415f35be9_lecture_14.pdf
 file_size: 436220
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

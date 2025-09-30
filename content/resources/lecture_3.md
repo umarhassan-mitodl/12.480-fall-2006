@@ -4,6 +4,8 @@ description: Handout contains the reading assignment and a summary of the lectur
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/29f6310ccfe7aaeac1063949ad803b0f_lecture_3.pdf
 file_size: 180787
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

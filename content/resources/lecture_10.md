@@ -5,6 +5,8 @@ description: Lecture notes on heterogeneous equilibria in two - and three-compon
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/223618c91c5acd1f0256b5f949f3150a_lecture_10.pdf
 file_size: 88902
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

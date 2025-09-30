@@ -4,6 +4,8 @@ description: Lecture notes on liquidus diagrams and liquidus boundaries.
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/5d8f04346f6c49a823cb949ba469f319_lecture_11.pdf
 file_size: 188287
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
