@@ -5,8 +5,6 @@ description: Lecture notes on choosing components - representations of compositi
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/eed2cd9566384b1a91aa10ccac9ae4e9_lecture_15.pdf
 file_size: 178614
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

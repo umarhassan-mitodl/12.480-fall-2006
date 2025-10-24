@@ -5,8 +5,6 @@ description: Lecture handout with information two feldspar themometry-barometry 
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/e21b46c6d8a8eeb736feb88ae0a6a2b8_lec3.pdf
 file_size: 236508
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

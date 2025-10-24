@@ -4,8 +4,6 @@ description: This resource contains a problem set.
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/02fc7f4dc35ba25f0e94834522052175_problem_set_1.pdf
 file_size: 22261
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Lecture notes on heterogeneous reactions - the Gibbs method.
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/2ffc41a9f3c2441e793383a7249222f6_lecture_16.pdf
 file_size: 164356
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

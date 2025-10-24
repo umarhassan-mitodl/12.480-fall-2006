@@ -33,7 +33,6 @@
     "website": "12-480-thermodynamics-for-geoscientists-fall-2006"
   },
   "course_title": "Thermodynamics for Geoscientists",
-  "hide_download": true,
   "course_description": "In this course, principles of thermodynamics are used to infer the physical conditions of formation and modification of igneous and metamorphic rocks. The course includes phase equilibria of homogeneous and heterogeneous systems and thermodynamic modeling of non-ideal crystalline solutions. It also surveys the processes that lead to the formation of metamorphic and igneous rocks in the major tectonic environments in the Earth's crust and mantle.\n",
   "department_numbers": [
     "12"
@@ -44,7 +43,6 @@
     "content": "c4bfbdec-3a0c-0509-38de-6032db922e21",
     "website": "12-480-thermodynamics-for-geoscientists-fall-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Lecture Notes"

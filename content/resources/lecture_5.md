@@ -4,8 +4,6 @@ description: Hand-written lecture notes.
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/aad013cbd8755cb0f3c3bac7a5a96894_lecture_5.pdf
 file_size: 162364
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

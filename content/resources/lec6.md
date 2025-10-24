@@ -5,8 +5,6 @@ description: Lecture notes on thermodynamic properties of multi-site mineral sol
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/925ab0fef768540876e560c181a41e02_lec6.pdf
 file_size: 278635
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

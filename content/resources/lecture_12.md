@@ -4,8 +4,6 @@ description: Lecture notes on liquidus diagrams - degeneracies and natural examp
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/e320a0316b1168ae3ae4741435cd266b_lecture_12.pdf
 file_size: 241694
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

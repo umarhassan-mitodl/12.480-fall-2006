@@ -5,8 +5,6 @@ description: Lecture notes on effects of ordering species on sites in a crystall
 file: /courses/12-480-thermodynamics-for-geoscientists-fall-2006/4288360a827d67948e75edb8c2cde030_lec7.pdf
 file_size: 404970
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
